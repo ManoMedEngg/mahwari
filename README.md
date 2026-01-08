@@ -1,10 +1,9 @@
 
 <div align="center">
 
-<img src= public/icon-192x192.png alt="Logo" width="80" height="80">
-
-# Prodo
+# Prodo 🩸
 ### The Aesthetic & Intelligent Period Tracker
+
 [![Demo](https://img.shields.io/badge/DEMO-Open%20App-ff4081?style=for-the-badge&logo=pwa)](https://prodo.vercel.app)
 [![Download](https://img.shields.io/badge/DOWNLOAD-Install%20PWA-2196f3?style=for-the-badge&logo=google-chrome)](https://prodo.vercel.app)
 [![Website](https://img.shields.io/badge/WEBSITE-Visit-4caf50?style=for-the-badge&logo=vercel)](https://prodo.vercel.app)
@@ -47,6 +46,7 @@ Our application supports the following languages:
 |:---:|:---:|:---:|
 | ![Home](/screenshots/home.png) | ![Calendar](/screenshots/calendar.png) | ![Insights](/screenshots/insights.png) |
 
+*(Note: Screenshots are placeholders)*
 
 ---
 
@@ -87,5 +87,5 @@ The app uses standard medical averages for predictions:
 ---
 
 <div align="center">
-  <i>Developed by Manoj</i>
+  <i>Designed with ❤️ for You.</i>
 </div>
