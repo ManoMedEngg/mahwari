@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mahwari</string>
+    <string name="title_activity_main">Mahwari</string>
+    <string name="package_name">com.mahwari.app</string>
+    <string name="custom_url_scheme">com.mahwari.app</string>
+</resources>

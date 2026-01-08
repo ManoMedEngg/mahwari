@@ -1,5 +1,6 @@
 
 <div align="center">
+
 <img src= public/icon-192x192.png alt="Logo" width="80" height="80">
   
 # mahwari 
@@ -51,25 +52,42 @@ Our application supports the following languages:
 
 ---
 
-## 🛠️ How to build
+## 📥 Installation
 
-You can run this project locally with a few simple commands.
+### 🤖 Android
+You can download the latest APK file directly from our GitHub Releases page.
+1. Download the `app-debug.apk` file.
+2. Allow installation from unknown sources if prompted.
+3. Install and enjoy!
 
-### Prerequisites
-- Node.js (v18+)
-- npm
+[**Download APK**](https://github.com/ManoMedEngg/mahwari/actions) *(Check the latest "Build Android APK" run artifacts)*
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/ManoMedEngg/mahwari.git
+### 🐧 Linux (Setup & Clone)
+To run the app locally on your Linux machine:
 
-# Install dependencies
-npm install
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ManoMedEngg/mahwari.git
+   cd mahwari
+   ```
 
-# Run development server
-npm run dev
-```
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) with your browser.
+
+4. **Build for Android (Optional)**:
+   Ensure you have Android Studio setup, then:
+   ```bash
+   npx cap sync
+   npx cap open android
+   ```
 
 ---
 
@@ -85,8 +103,16 @@ The app uses standard medical averages for predictions:
 - **Ovulation**: 14 days before the next expected period.
 - **Fertility**: High during Ovulation +/- 2 days.
 
+## 📞 Contact
+
+For queries, suggestions, or collaborations, feel free to reach out:
+
+- **GitHub**: [ManoMedEngg](https://github.com/ManoMedEngg)
+- **LinkedIn**: [ManoMedEngg](https://www.linkedin.com/in/ManoMedEngg)
+- **Instagram**: [ManoMedEngg](https://www.instagram.com/ManoMedEngg)
+
 ---
 
 <div align="center">
-  <i>Designed with ❤️ for You.</i>
+  <i>Developed by Manoj</i>
 </div>
