@@ -1,10 +1,10 @@
 
 <div align="center">
 
-# Prodo <img src= public/icon-192x192.png alt="Logo" width="80" height="80">
+<img src= public/icon-192x192.png alt="Logo" width="80" height="80">
 
+# Prodo
 ### The Aesthetic & Intelligent Period Tracker
-
 [![Demo](https://img.shields.io/badge/DEMO-Open%20App-ff4081?style=for-the-badge&logo=pwa)](https://prodo.vercel.app)
 [![Download](https://img.shields.io/badge/DOWNLOAD-Install%20PWA-2196f3?style=for-the-badge&logo=google-chrome)](https://prodo.vercel.app)
 [![Website](https://img.shields.io/badge/WEBSITE-Visit-4caf50?style=for-the-badge&logo=vercel)](https://prodo.vercel.app)
