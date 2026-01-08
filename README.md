@@ -47,7 +47,6 @@ Our application supports the following languages:
 |:---:|:---:|:---:|
 | ![Home](/screenshots/home.png) | ![Calendar](/screenshots/calendar.png) | ![Insights](/screenshots/insights.png) |
 
-*(Note: Screenshots are placeholders)*
 
 ---
 
