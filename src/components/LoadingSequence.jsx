@@ -9,7 +9,7 @@ export default function LoadingSequence({ onComplete }) {
         // 3s: Splash hits
         // 4.5s: Fade out / Done
 
-        const t1 = setTimeout(() => setPhase('splash'), 3000);
+        const t1 = setTimeout(() => setPhase('cinematic-container'), 3000);
         const t2 = setTimeout(() => {
             setPhase('done');
             setTimeout(onComplete, 500); // Allow fade out
@@ -29,11 +29,6 @@ export default function LoadingSequence({ onComplete }) {
                 </div>
             )}
 
-            {phase === 'splash' && (
-                <div className="splash-container fade-in-flash">
-                    <img src="/light_splash.png" alt="Splash" className="splash-img" />
-                </div>
-            )}
 
             <style jsx>{`
                 .cinematic-container {

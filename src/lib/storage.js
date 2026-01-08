@@ -1,4 +1,4 @@
-export const STORAGE_KEY = 'prodo_data';
+export const STORAGE_KEY = 'mahwari_data';
 
 export const getStoredData = () => {
     if (typeof window === 'undefined') return null;

@@ -36,8 +36,8 @@ export default function SecurityPin({ mode, onSuccess, initialPin }) {
     return (
         <div className="pin-container glass">
             <div style={{ marginBottom: '20px', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '10px' }}>
-                <img src="/icon-512x512.png" alt="Prodo" style={{ width: '80px', height: '80px', borderRadius: '20px', boxShadow: '0 8px 30px rgba(255, 64, 129, 0.4)' }} />
-                <h1 style={{ fontSize: '2rem', margin: 0, background: 'linear-gradient(to right, #ff4081, #ff80ab)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Prodo</h1>
+                <img src="/icon-512x512.png" alt="mahwari" style={{ width: '80px', height: '80px', borderRadius: '20px', boxShadow: '0 8px 30px rgba(255, 64, 129, 0.4)' }} />
+                <h1 style={{ fontSize: '2rem', margin: 0, background: 'linear-gradient(to right, #ff4081, #ff80ab)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>mahwari</h1>
             </div>
             <h2>
                 {mode === 'create' && 'Create Security PIN'}

@@ -49,7 +49,7 @@ export default function PeriodChart({ history }) {
                             right: 12,
                         }}
                     >
-                        <CartesianGrid vertical={false} stroke="rgba(233, 233, 233, 0.91)" />
+                        <CartesianGrid vertical={false} stroke="rgba(233, 233, 233, 0.1)" />
                         <XAxis
                             dataKey="cycle"
                             tickLine={false}

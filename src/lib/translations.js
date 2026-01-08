@@ -1,7 +1,7 @@
 export const translations = {
     en: {
         langName: 'English',
-        app_name: 'Prodo',
+        app_name: 'mahwari',
         home: 'Home',
         exercise: 'Yoga/Ex',
         water: 'Water',

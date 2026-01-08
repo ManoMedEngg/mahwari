@@ -1,12 +1,12 @@
 
 <div align="center">
 
-# Prodo 🩸
+# mahwari 🩸
 ### The Aesthetic & Intelligent Period Tracker
 
-[![Demo](https://img.shields.io/badge/DEMO-Open%20App-ff4081?style=for-the-badge&logo=pwa)](https://prodo.vercel.app)
-[![Download](https://img.shields.io/badge/DOWNLOAD-Install%20PWA-2196f3?style=for-the-badge&logo=google-chrome)](https://prodo.vercel.app)
-[![Website](https://img.shields.io/badge/WEBSITE-Visit-4caf50?style=for-the-badge&logo=vercel)](https://prodo.vercel.app)
+[![Demo](https://img.shields.io/badge/DEMO-Open%20App-ff4081?style=for-the-badge&logo=pwa)](https://mahwari.vercel.app)
+[![Download](https://img.shields.io/badge/DOWNLOAD-Install%20PWA-2196f3?style=for-the-badge&logo=google-chrome)](https://mahwari.vercel.app)
+[![Website](https://img.shields.io/badge/WEBSITE-Visit-4caf50?style=for-the-badge&logo=vercel)](https://mahwari.vercel.app)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## About the project
 
-**Prodo** is a privacy-first, aesthetic monthly cycle tracker designed to empower you with knowledge about your body. The application has the necessary features that help you track your cycle and health habits. The app shows:
+**mahwari** is a privacy-first, aesthetic monthly cycle tracker designed to empower you with knowledge about your body. The application has the necessary features that help you track your cycle and health habits. The app shows:
 
 - 🗓️ **Possible next period date**
 - 🔄 **Current cycle day & Phase (Follicular, Luteal, etc.)**
@@ -61,7 +61,7 @@ You can run this project locally with a few simple commands.
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/ManoMedEngg/prodo.git
+git clone https://github.com/ManoMedEngg/mahwari.git
 
 # Install dependencies
 npm install

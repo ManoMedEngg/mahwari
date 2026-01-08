@@ -119,7 +119,7 @@ export default function Home() {
         <header className="app-header">
           <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '10px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '15px' }}>
-              <img src="/icon-512x512.png" alt="Prodo" style={{ width: '50px', height: '50px', borderRadius: '12px', boxShadow: '0 4px 15px rgba(255, 64, 129, 0.3)' }} />
+              <img src="/icon-512x512.png" alt="mahwari" style={{ width: '50px', height: '50px', borderRadius: '12px', boxShadow: '0 4px 15px rgba(255, 64, 129, 0.3)' }} />
               <h1>{t.app_name}</h1>
             </div>
             <span style={{ fontSize: '0.8rem', opacity: 0.7 }}>{translations[lang]?.langName}</span>

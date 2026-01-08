@@ -1,6 +1,6 @@
 {
-  "name": "Prodo Period Tracker",
-  "short_name": "Prodo",
+  "name": "Mahwari Period Tracker",
+  "short_name": "Mahwari",
   "description": "Interactive Period Tracker & Predictor",
   "start_url": "/",
   "display": "standalone",

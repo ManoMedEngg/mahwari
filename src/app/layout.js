@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Prodo",
+  title: "mahwari",
   description: "Period Tracker & Health Companion",
   manifest: "/manifest.json",
 };

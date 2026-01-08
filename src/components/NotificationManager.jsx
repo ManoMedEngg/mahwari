@@ -17,7 +17,7 @@ export default function NotificationManager({ settings, onToggle, t }) {
         Notification.requestPermission().then((result) => {
             setPermission(result);
             if (result === 'granted') {
-                new Notification('Prodo', { body: 'Notifications enabled!' });
+                new Notification('mahwari', { body: 'Notifications enabled!' });
             }
         });
     };
