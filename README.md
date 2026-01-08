@@ -1,7 +1,8 @@
 
 <div align="center">
 
-# Prodo <img src= public/icon-192x192.png>
+# Prodo <img src= public/icon-192x192.png alt="Logo" width="80" height="80">
+
 ### The Aesthetic & Intelligent Period Tracker
 
 [![Demo](https://img.shields.io/badge/DEMO-Open%20App-ff4081?style=for-the-badge&logo=pwa)](https://prodo.vercel.app)
