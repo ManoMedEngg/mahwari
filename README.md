@@ -1,7 +1,7 @@
 
 <div align="center">
-
-# mahwari 🩸
+<img src="public/icon-152x152png width=80 height=80">
+# mahwari 
 ### The Aesthetic & Intelligent Period Tracker
 
 [![Demo](https://img.shields.io/badge/DEMO-Open%20App-ff4081?style=for-the-badge&logo=pwa)](https://mahwari.vercel.app)
