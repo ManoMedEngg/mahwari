@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Prodo 🩸
+# Prodo <img src= public/icon-192x192.png>
 ### The Aesthetic & Intelligent Period Tracker
 
 [![Demo](https://img.shields.io/badge/DEMO-Open%20App-ff4081?style=for-the-badge&logo=pwa)](https://prodo.vercel.app)
@@ -87,5 +87,5 @@ The app uses standard medical averages for predictions:
 ---
 
 <div align="center">
-  <i>Designed with ❤️ for You.</i>
+  <i>Developed by Manoj</i>
 </div>
