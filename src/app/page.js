@@ -33,6 +33,9 @@ export default function Home() {
 
   // Force dark theme on mount and hue change
   useEffect(() => {
+    // Logcat Output Simulation
+    console.info('Mahwari: output to logcat - App Loaded Successfully');
+
     document.body.setAttribute('data-theme', 'dark');
     if (data?.settings?.hue !== undefined) {
       document.documentElement.style.setProperty('--hue', data.settings.hue);
