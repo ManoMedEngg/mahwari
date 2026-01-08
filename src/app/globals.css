@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap');
+
+:root {
+  /* HSL Defaults (Red) */
+  --hue: 0;
+  --sat: 100%;
+  --light: 50%;
+
+  --primary-color: hsl(var(--hue), var(--sat), var(--light));
+  --primary-dark: hsl(var(--hue), var(--sat), 30%);
+  --primary-light: hsl(var(--hue), var(--sat), 70%);
+
+  /* Dark Theme Default */
+  --bg-color: #050505;
+  --text-color: #FFFFFF;
+  --card-bg: #121212;
+  --border-color: #333333;
+  --muted-text: #AAAAAA;
+
+  /* Subtle Background Texture */
+  --bg-image: radial-gradient(circle at 50% 50%, rgba(50, 0, 0, 0.1), transparent 70%);
+}
+
+[data-theme='light'] {
+  --bg-color: #FFFFFF;
+  --text-color: #1A1A1A;
+  --card-bg: #F5F5F5;
+  --border-color: #E0E0E0;
+  --muted-text: #666666;
+  --bg-image: none;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: var(--bg-color);
+  background-image: var(--bg-image);
+  color: var(--text-color);
+  font-family: 'Outfit', sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Utilities */
+.container {
+  max-width: 480px;
+  margin: 0 auto;
+  min-height: 100vh;
+  padding: 20px;
+  position: relative;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-family: inherit;
+}
+
+/* Glassmorphism */
+.glass {
+  background: rgba(var(--card-bg-rgb), 0.5);
+  /* fallback */
+  background: color-mix(in srgb, var(--card-bg), transparent 20%);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--border-color);
+}
