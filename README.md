@@ -1,6 +1,7 @@
 
 <div align="center">
 <img src= public/icon-192x192.png alt="Logo" width="80" height="80">
+  
 # mahwari 
 ### The Aesthetic & Intelligent Period Tracker
 
